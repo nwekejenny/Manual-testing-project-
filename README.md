@@ -1,0 +1,37 @@
+# 🏨 Hotel Booking - Manual Testing Project
+## 📄 Project Overview 
+This repository contains a comprehensive **Manual Testing Project** for a **Hotel Booking System**. It covers test planning, execution, and reporting for the following modules:
+- **Login Functionality**
+- - **User Registration**
+  - - **Hotel Search**
+    -  - **Booking Process**
+       -  - **Payment Gateway** 
+          - ## 🛠 Tools Used
+          - - Microsoft Word (for Test Reports)
+            - Powerpoint (for Test Plan)
+            - - Microsoft Excel (for Test Cases, Bug Report and Decision Table) 
+              -  ## 📊 Test Coverage
+              - | **Module**          | **Test Cases** | **Passed** | **Failed** | **Pass Rate** |
+              - |---------------------|----------------|------------|------------| --------------|
+              - | Home Page           | 1              | 1          | 0          | 100%          |
+              - | User Registration   | 1              | 1          | 0          | 100%          |
+              - | Invalid Registration| 1              | 1          | 0          | 100%          |
+              - | User Login          | 1              | 1          | 0          | 100%          |
+              - | Update Profile      | 1              | 1          | 0          | 100%          |
+              - | Hotel Search        | 1              | 0          | 1          | 0%            |
+              - | Filters             | 1              | 0          | 1          | 0%            |
+              - | Book Hotel          | 1              | 1          | 0          | 100%          |
+              - | Room Booking        | 1              | 1          | 0          | 100%          |
+              - | Cancellation/Unbooking | 1           | 1          | 0          | 100%          |
+              - | Payment Gateway     | 1              | 0          | 1          | 0%            |
+              - | Error Handling      | 1              | 0          | 1          | 0%            |
+              - | Responsive Design   | 1              | 0          | 1          | 0%            |
+              - | Log Out             | 1              | 1          | 0          | 100%          |
+              - | **Total**           | **14**         | **9**      | **5**      | **64.29%**    | 
+              - ## 📈 Summary 
+              -  **Test Plan**: Defines the scope, objectives, and schedule of testing.
+              -  **Test Cases**: Contains step-by-step instructions to test various functionalities.
+              -  **Test Report**: Summarizes the testing process, results, and defects. 
+              -   ## 📧 Contact For questions or suggestions, feel free to reach out:
+              -    - **Email**: chiji.nwekej@gmail.com
+                   - **LinkedIn**: https://www.linkedin.com/in/chijindu-jennifer-nweke-865b01278/
